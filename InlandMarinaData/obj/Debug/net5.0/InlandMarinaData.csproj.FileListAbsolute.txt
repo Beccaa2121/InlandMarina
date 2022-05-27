@@ -1,0 +1,15 @@
+C:\Users\allan\source\repos\InlandMarinaRebecca\InlandMarinaData\bin\Debug\net5.0\InlandMarinaData.deps.json
+C:\Users\allan\source\repos\InlandMarinaRebecca\InlandMarinaData\bin\Debug\net5.0\InlandMarinaData.runtimeconfig.json
+C:\Users\allan\source\repos\InlandMarinaRebecca\InlandMarinaData\bin\Debug\net5.0\InlandMarinaData.runtimeconfig.dev.json
+C:\Users\allan\source\repos\InlandMarinaRebecca\InlandMarinaData\bin\Debug\net5.0\InlandMarinaData.dll
+C:\Users\allan\source\repos\InlandMarinaRebecca\InlandMarinaData\bin\Debug\net5.0\ref\InlandMarinaData.dll
+C:\Users\allan\source\repos\InlandMarinaRebecca\InlandMarinaData\bin\Debug\net5.0\InlandMarinaData.pdb
+C:\Users\allan\source\repos\InlandMarinaRebecca\InlandMarinaData\obj\Debug\net5.0\InlandMarinaData.csproj.AssemblyReference.cache
+C:\Users\allan\source\repos\InlandMarinaRebecca\InlandMarinaData\obj\Debug\net5.0\InlandMarinaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\source\repos\InlandMarinaRebecca\InlandMarinaData\obj\Debug\net5.0\InlandMarinaData.AssemblyInfoInputs.cache
+C:\Users\allan\source\repos\InlandMarinaRebecca\InlandMarinaData\obj\Debug\net5.0\InlandMarinaData.AssemblyInfo.cs
+C:\Users\allan\source\repos\InlandMarinaRebecca\InlandMarinaData\obj\Debug\net5.0\InlandMarinaData.csproj.CoreCompileInputs.cache
+C:\Users\allan\source\repos\InlandMarinaRebecca\InlandMarinaData\obj\Debug\net5.0\InlandMarinaData.dll
+C:\Users\allan\source\repos\InlandMarinaRebecca\InlandMarinaData\obj\Debug\net5.0\ref\InlandMarinaData.dll
+C:\Users\allan\source\repos\InlandMarinaRebecca\InlandMarinaData\obj\Debug\net5.0\InlandMarinaData.pdb
+C:\Users\allan\source\repos\InlandMarinaRebecca\InlandMarinaData\obj\Debug\net5.0\InlandMarinaData.genruntimeconfig.cache
